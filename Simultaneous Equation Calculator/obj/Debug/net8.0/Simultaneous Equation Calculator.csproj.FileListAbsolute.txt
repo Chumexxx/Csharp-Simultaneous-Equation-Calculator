@@ -1,0 +1,14 @@
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\bin\Debug\net8.0\Simultaneous Equation Calculator.exe
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\bin\Debug\net8.0\Simultaneous Equation Calculator.deps.json
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\bin\Debug\net8.0\Simultaneous Equation Calculator.runtimeconfig.json
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\bin\Debug\net8.0\Simultaneous Equation Calculator.dll
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\bin\Debug\net8.0\Simultaneous Equation Calculator.pdb
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\obj\Debug\net8.0\Simultaneous Equation Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\obj\Debug\net8.0\Simultaneous Equation Calculator.AssemblyInfoInputs.cache
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\obj\Debug\net8.0\Simultaneous Equation Calculator.AssemblyInfo.cs
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\obj\Debug\net8.0\Simultaneous Equation Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\obj\Debug\net8.0\Simultaneous Equation Calculator.dll
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\obj\Debug\net8.0\refint\Simultaneous Equation Calculator.dll
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\obj\Debug\net8.0\Simultaneous Equation Calculator.pdb
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\obj\Debug\net8.0\Simultaneous Equation Calculator.genruntimeconfig.cache
+C:\Users\Obasi Chukwuemeka\Desktop\Tech\C#\Simultaneous Equation Calculator\Simultaneous Equation Calculator\obj\Debug\net8.0\ref\Simultaneous Equation Calculator.dll
